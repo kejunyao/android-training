@@ -1,0 +1,9 @@
+include ':base'
+include ':robotium'
+include ':leak'
+include ':algorithm'
+include ':android28'
+include ':android28'
+include ':okhttp'
+include ':app'
+rootProject.name = "android-training"

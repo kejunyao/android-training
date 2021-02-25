@@ -1,8 +1,6 @@
 package com.kejunyao.algorithm;
 
-import androidx.collection.LruCache;
-
-import java.util.HashMap;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * 给你⼀个链表，每 k 个节点⼀组进⾏翻转，请你返回翻转后的链表。
@@ -23,6 +21,7 @@ public class LinkListReverse<E> {
     private int size = 0;
 
     public LinkListReverse() {
+        // ConcurrentHashMap
         //HashMap
     }
 

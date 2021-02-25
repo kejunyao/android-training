@@ -36,7 +36,7 @@
  *       android:name="com.example.DetailsFragment"/&gt;
  * &lt;navigation /&gt;
  *
- * // File: activity_main.xml
+ * // File: activity_robotium.xml.xml
  * &lt;fragment
  *   android:id="{@literal @}+id/my_nav_host_fragment"
  *   android:layout_width="match_parent"

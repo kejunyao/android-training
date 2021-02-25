@@ -224,7 +224,7 @@ import java.util.function.Supplier;
  *
  *    protected void onCreate(Bundle savedInstanceState) {
  *         super.onCreate(savedInstanceState);
- *         setContentView(R.layout.activity_main);
+ *         setContentView(R.layout.activity_robotium.xml);
  *         final TextView helloTextView = (TextView) findViewById(R.id.text_view_id);
  *         helloTextView.setText(R.string.user_greeting);
  *     }

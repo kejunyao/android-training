@@ -15,10 +15,7 @@ public class DoubleStackForQueue {
 
 
     public void push(int node) {
-        while (!stack2.isEmpty()) {
-            stack1.push(stack2.pop());
-        }
-        stack2.push(node);
+        stack1.push(node);
     }
 
     public int pop() {

@@ -18,8 +18,10 @@
             <option value="$PROJECT_DIR$/leak" />
             <option value="$PROJECT_DIR$/ndk" />
             <option value="$PROJECT_DIR$/okhttp" />
+            <option value="$PROJECT_DIR$/okhttp_retrofit_rxjava" />
             <option value="$PROJECT_DIR$/robotium" />
             <option value="$PROJECT_DIR$/rxjava" />
+            <option value="$PROJECT_DIR$/test" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

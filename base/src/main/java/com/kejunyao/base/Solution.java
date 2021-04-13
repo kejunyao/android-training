@@ -1,4 +1,4 @@
-package com.kejunyao.algorithm;
+package com.kejunyao.base;
 
 /**
  * $类描述$

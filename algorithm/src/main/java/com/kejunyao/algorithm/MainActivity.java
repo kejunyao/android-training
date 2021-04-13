@@ -2,12 +2,10 @@ package com.kejunyao.algorithm;
 
 import android.os.Bundle;
 import android.widget.TextView;
-
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-
-import com.kejunyao.algorithm.array.MergeSortedArray;
 import com.kejunyao.algorithm.array.SortColors;
+import com.kejunyao.base.SolutionExecutor;
 
 /**
  * $类描述$

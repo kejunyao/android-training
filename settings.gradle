@@ -1,3 +1,5 @@
+include ':test'
+include ':okhttp_retrofit_rxjava'
 include ':ndk'
 include ':rxjava'
 include ':base'

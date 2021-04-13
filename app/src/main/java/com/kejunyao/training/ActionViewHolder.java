@@ -31,5 +31,7 @@ public class ActionViewHolder extends BaseClickRecyclerHolder<AdapterData<String
     public void refresh(AdapterData<String> data) {
         super.refresh(data);
         textView.setText(data.data);
+
+        Math.sqrt()
     }
 }
